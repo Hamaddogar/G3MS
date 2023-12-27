@@ -1,0 +1,9 @@
+Dockerfile
+dist
+node_modules
+test
+Procfile
+.env
+README.md
+.eslintrc.js
+.prettierrc
